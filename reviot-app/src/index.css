@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'Copperplate Gothic';
+    src: url('src/assets/fonts/copperplate/Copperplate-Gothic-Std-29-BC.ttf') format('truetype');  
+}
+  
+  @font-face {
+    font-family: 'The Seasons';
+    src: url('/src/assets/fonts/theseasons/Fontspring-DEMO-theseasons-bd.otf') format('truetype');
+  }
+
+  @font-face {
+    font-family: 'Garet';
+    src: url('/src/assets/fonts/garet/Garet-Book.ttf') format('truetype');
+  }
+  
+  
