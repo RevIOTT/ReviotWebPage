@@ -1,5 +1,5 @@
 import { revAnim } from "./FetchImages";
-import { FaPhoneVolume, FaSquareInstagram, FaFacebook, FaXTwitter, FaLinkedin} from "react-icons/fa6";
+import { FaPhoneVolume, FaSquareInstagram, FaFacebook, FaLinkedin} from "react-icons/fa6";
 import { MdEmail } from "react-icons/md";
 
 function Contacts() {
