@@ -14,7 +14,7 @@ interface ProjectCardProps {
 
 function ProjectCard({ ProjectName, Description, ProjectImage }: ProjectCardProps) {
   return (
-    <div className='flex flex-col shadow-sm max-w-[90%]  max-h-[50vh] m-auto'>
+    <div className='flex flex-col shadow-sm max-w-[90%]  max-h-[50vh] m-auto font-garet'>
         <div className='w-full h-[25vh] lg:h-[50vh] items-center justify-center'>
             <img src={ProjectImage} alt={ProjectName} className='w-full h-full object-cover'/>
         </div>

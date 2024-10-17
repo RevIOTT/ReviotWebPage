@@ -3,9 +3,9 @@ import { farmwise, enabled, hama, revAnim } from './FetchImages'
 
 function Projects() {
   return (
-    <div className='flex flex-col m-auto p-10 min-h-screen bg-reviot-blue font-garet'>
-      <h2 className='text-center text-reviot-cyan'>Our Projects</h2>
-      <div className='grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 h-[90vh] lg:grid-cols-4 overflow-auto m-4 pt-5 pl-5 gap-4'>
+    <div className='flex flex-col m-auto h-screen bg-reviot-blue font-garet'>
+      <h2 className='text-center text-reviot-cyan font-garet text-xl p-2'>Our Projects</h2>
+      <div className='grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 h-[90vh] lg:grid-cols-4 overflow-auto pl-5 gap-4'>
         <ProjectCard
         ProjectName='Farmwise'
         Description='Farmwise is an argricultural technology that focuses
