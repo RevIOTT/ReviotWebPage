@@ -1,4 +1,3 @@
-import React from "react";
 import { revAnim } from "./FetchImages";
 
 function Contacts() {

@@ -1,5 +1,3 @@
-import React from 'react'
-
 /**
  * ProjectCard component
  * @param {string} ProjectName - Name of the project

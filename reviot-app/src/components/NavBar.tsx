@@ -1,5 +1,3 @@
-import React from "react";
-
 interface NavItem {
   setActive: (active: string) => void;
 }

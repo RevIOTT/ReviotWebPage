@@ -1,4 +1,3 @@
-import React from 'react'
 import ProjectCard from './ProjectCard'
 import { farmwise, enabled, hama, revAnim } from './FetchImages'
 
